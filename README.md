@@ -1,23 +1,13 @@
-# Hi, I'm Eve Haddox 👋
-
-Welcome to my GitHub profile! I'm a passionate developer who loves building things and learning new technologies.
-
 ## About Me
 
-- 🔭 I'm currently working on personal and open-source projects
-- 🌱 I'm always learning and growing as a developer
-- 💬 Feel free to reach out — I'm happy to chat about code, ideas, or collaboration
-- ⚡ Fun fact: I enjoy tackling challenging problems and turning them into elegant solutions
+I mainly work with glua, SQLite and MySQL, but I also know C# and python quite well. I also know my fair bit of UI/UX as I design all of my UI myself.
 
-## 🛠️ Technologies & Tools
+## Contact
 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## 📫 Get in Touch
-
-- GitHub: [@EveHaddox](https://github.com/EveHaddox)
+- Discord: *evehaddox*
+- Discord Server: [Easy Scripts](https://discord.gg/bP2MSM7tgW)
+- Gmod Store: [my profile](https://www.gmodstore.com/users/Eve_Haddox)
+- My website: [Easy Scripts](https://easy-scripts.xyz/)
 
 ---
-
-*Thanks for stopping by!* 😊
+I do accept comissions!
