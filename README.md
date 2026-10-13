@@ -11,3 +11,4 @@ I mainly work with glua, SQLite and MySQL, but I also know C# and python quite w
 
 ---
 I do accept comissions!
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J1M228QB9E)
