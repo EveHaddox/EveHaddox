@@ -10,6 +10,5 @@ I mainly work with glua, SQLite and MySQL, but I also know C# and python quite w
 - My website: [Easy Scripts](https://easy-scripts.xyz/)
 
 ---
-I do accept comissions!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J1M228QB9E)
